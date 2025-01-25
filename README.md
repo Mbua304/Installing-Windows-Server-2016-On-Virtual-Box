@@ -89,6 +89,8 @@ Set up password for the administrator account.
 
 input>keyboard>insert ctrl, alt, delete to unlock
 
+<img src="Folder/Win 18.png">
+
 
 
 
