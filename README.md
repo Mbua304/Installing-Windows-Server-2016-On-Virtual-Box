@@ -63,6 +63,8 @@ It will ask which version to pick. Pick the ones with desktop experience, choose
 
 Agree with the license terms, hit next
 
+<img src="Folder/Win 12.png">
+
 
 
 Type of install, choose custom
