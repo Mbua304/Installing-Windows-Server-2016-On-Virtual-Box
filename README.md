@@ -3,15 +3,15 @@
 Click here to visit the Official Microsoft site and download Windows Server 2016 ISO 60-bit edition and start the download.
 
 
-Step 2: Create a New Virtual Machine
+<h1>Step 2: Create a New Virtual Machine</h1>
 If you haven’t downloaded and installed virtual box, I have created a guide here on how to go about it. Open Virtual-box and click on ‘New’ to create a new virtual machine.
 
 
-Name your machine:
+<h2>Name your machine:</h2>
 You are at liberty to call it ‘windows server 2016 ’ and it should automatically change the version to windows 2016 64-bit, so make sure that's highlighted if it didn't automatically do it.
 
 
-Create a Virtual Hard-disk:
+<h2>Create a Virtual Hard-disk:</h2>
 Recommended to have at least 2GB of Base Memory. You could increase if your system has more resources.
 
 
@@ -19,7 +19,7 @@ Cycle through and complete by clicking Finish to create your virtual machine.
 
 
 
-Configure VM settings:
+<h2>Configure VM settings:</h2>
 Next go to the Virtual Machine ‘settings’ go to the storage tab, empty disk, locating where you downloaded server 2016 ISO and get it inserted. Then click OK.
 
 
@@ -27,9 +27,9 @@ Next go to the Virtual Machine ‘settings’ go to the storage tab, empty disk,
 
 
 
-Step 3: Start up the virtual machine
+<h1>Step 3: Start up the virtual machine</h1>
 Click 'Start' to start the virtual machine, or rather start installing the server.
-Setting Up Windows Server 2016:
+<h2>setting Up Windows Server 2016:</h2>
 It loads a blue boot screen then the setup screen Pick the language, time and keyboard formats as you need, hit next then hit install now
 
 
