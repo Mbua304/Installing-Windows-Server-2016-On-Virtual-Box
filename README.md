@@ -82,6 +82,7 @@ Make sure the drive is selected, hit next
 It will go through the install and when done, let it restart. Click nothing as it boots-up into the setup, let it finish 
 
 <img src="Folder/Win 15.png">
+<img src="Folder/Win 16.png">
 
 Set up password for the administrator account. 
 
