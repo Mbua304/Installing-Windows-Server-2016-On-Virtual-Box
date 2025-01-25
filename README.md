@@ -34,6 +34,7 @@ Next go to the Virtual Machine ‘settings’ go to the storage tab, empty disk,
 
 
 <img src="Folder/Win 6.png">
+<img src="Folder/Win 7.png">
 
 
 
