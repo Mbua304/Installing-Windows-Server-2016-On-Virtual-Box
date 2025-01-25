@@ -69,6 +69,8 @@ Agree with the license terms, hit next
 
 Type of install, choose custom
 
+<img src="Folder/Win 13.png">
+
 
 
 Make sure the drive is selected, hit next
