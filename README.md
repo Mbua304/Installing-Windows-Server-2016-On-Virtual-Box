@@ -75,6 +75,8 @@ Type of install, choose custom
 
 Make sure the drive is selected, hit next
 
+<img src="Folder/win 14.png">
+
 
 
 It will go through the install and when done, let it restart. Click nothing as it boots-up into the setup, let it finish  
