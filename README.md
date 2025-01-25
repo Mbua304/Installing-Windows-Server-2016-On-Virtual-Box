@@ -57,6 +57,8 @@ It loads a blue boot screen then the setup screen Pick the language, time and ke
 
 It will ask which version to pick. Pick the ones with desktop experience, choose the server 2016 standard with desktop experience and hit next
 
+<img src="Folder/Win 11.png">
+
 
 
 Agree with the license terms, hit next
