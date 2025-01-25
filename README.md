@@ -25,6 +25,8 @@ Recommended to have at least 2GB of Base Memory. You could increase if your syst
 
 Cycle through and complete by clicking Finish to create your virtual machine.
 
+<img src="Folder/Win 4.png">
+
 
 
 <h2>Configure VM settings:</h2>
