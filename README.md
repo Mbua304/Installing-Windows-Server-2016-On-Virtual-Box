@@ -98,6 +98,7 @@ input>keyboard>insert ctrl, alt, delete to unlock
 
 
 Enter the password as it logs in the account for the first time 
+<img src="Folder/Win 20.png">
 
 Then finally the desktop will load up 
 
