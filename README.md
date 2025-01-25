@@ -20,6 +20,8 @@ You are at liberty to call it ‘windows server 2016 ’ and it should automatic
 <h2>Create a Virtual Hard-disk:</h2>
 Recommended to have at least 2GB of Base Memory. You could increase if your system has more resources.
 
+<img src="Folder/Win 4.png">
+
 
 Cycle through and complete by clicking Finish to create your virtual machine.
 
