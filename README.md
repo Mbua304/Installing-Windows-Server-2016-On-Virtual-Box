@@ -14,6 +14,8 @@ If you haven’t downloaded and installed virtual box, I have created a guide he
 <h2>Name your machine:</h2>
 You are at liberty to call it ‘windows server 2016 ’ and it should automatically change the version to windows 2016 64-bit, so make sure that's highlighted if it didn't automatically do it.
 
+<img src="Folder/Win 3.png">
+
 
 <h2>Create a Virtual Hard-disk:</h2>
 Recommended to have at least 2GB of Base Memory. You could increase if your system has more resources.
