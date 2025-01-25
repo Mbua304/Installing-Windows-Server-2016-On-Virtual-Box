@@ -91,6 +91,8 @@ input>keyboard>insert ctrl, alt, delete to unlock
 
 <img src="Folder/Win 18.png">
 
+<img src="Folder/Win 19.png">
+
 
 
 
