@@ -33,6 +33,9 @@ Cycle through and complete by clicking Finish to create your virtual machine.
 Next go to the Virtual Machine ‘settings’ go to the storage tab, empty disk, locating where you downloaded server 2016 ISO and get it inserted. Then click OK.
 
 
+<img src="Folder/Win 6.png">
+
+
 
 
 
