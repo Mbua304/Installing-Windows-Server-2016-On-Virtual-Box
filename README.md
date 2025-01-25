@@ -50,6 +50,8 @@ It loads a blue boot screen then the setup screen Pick the language, time and ke
 
 <img src="Folder/Win 9.png">
 
+<img src="Folder/Win 10.png">
+
 
 
 
